@@ -1,0 +1,15 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+pypdf
+python-dotenv
+sounddevice
+soundfile
+typing_extensions
+chromadb
+google-generativeai
+git+https://github.com/openai/whisper.git
+elevenlabs
