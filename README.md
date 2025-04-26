@@ -6,7 +6,8 @@
 
 ## Project Resources
 GitHub Repository: https://github.com/selvintuscano/EduVox_AI_VoiceTutor
-Presentations:
+
+### Presentations:
 1.	PowerPoint Project Presentation: 
 https://drive.google.com/file/d/1H-iwAAAZsFp0_RJ_pFPG0nw-ldDV5r78/view?usp=drivesdk
 
