@@ -1,10 +1,6 @@
 # EduVox: AI Voice Tutor
 
 <p align="center">
-  <img src="path/to/logo.png" alt="EduVox Logo" width="200"/>
-</p>
-
-<p align="center">
   <em>"Your Voice-Enabled Learning Companion"</em>
 </p>
 
