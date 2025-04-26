@@ -13,9 +13,7 @@ https://drive.google.com/file/d/1H-iwAAAZsFp0_RJ_pFPG0nw-ldDV5r78/view?usp=drive
 
 2.	Code and Streamlit App Walkthrough: 
 https://drive.google.com/file/d/1HXs68IqLxASY7ypSj7peMQnk0Ix_9FpB/view?usp=drivesdk
-Note: Haven’t deployed Streamlit App as it contains OpenAI API key and eleven labs keys. Have provided screenshots of Streamlit App below
-![image](https://github.com/user-attachments/assets/c2ad298d-58ef-4f15-a46e-3e5cf217d04c)
-
+Note: Haven’t deployed Streamlit App as it contains OpenAI API key and eleven labs keys. 
 
 ## 📋 Overview
 
