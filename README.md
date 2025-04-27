@@ -9,10 +9,10 @@ GitHub Repository: https://github.com/selvintuscano/EduVox_AI_VoiceTutor
 
 ### Presentations:
 1.	PowerPoint Project Presentation: 
-https://drive.google.com/file/d/1H-iwAAAZsFp0_RJ_pFPG0nw-ldDV5r78/view?usp=drivesdk
-
-2.	Code and Streamlit App Walkthrough: 
 https://drive.google.com/file/d/1HXs68IqLxASY7ypSj7peMQnk0Ix_9FpB/view?usp=drivesdk
+
+3.	Code and Streamlit App Walkthrough: 
+[https://drive.google.com/file/d/1HXs68IqLxASY7ypSj7peMQnk0Ix_9FpB/view?usp=drivesdk](https://drive.google.com/file/d/1H-iwAAAZsFp0_RJ_pFPG0nw-ldDV5r78/view?usp=drivesdk)
 Note: Haven’t deployed Streamlit App as it contains OpenAI API key and eleven labs keys. 
 
 ## 📋 Overview
