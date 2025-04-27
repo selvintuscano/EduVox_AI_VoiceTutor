@@ -7,6 +7,8 @@
 ## Project Resources
 GitHub Repository: https://github.com/selvintuscano/EduVox_AI_VoiceTutor
 
+Dataset is stored under Knowlege Base
+
 ### Presentations:
 1.	PowerPoint Project Presentation: 
 https://drive.google.com/file/d/1HXs68IqLxASY7ypSj7peMQnk0Ix_9FpB/view?usp=drivesdk
