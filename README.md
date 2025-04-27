@@ -21,6 +21,34 @@ Note: Haven’t deployed Streamlit App as it contains OpenAI API key and eleven 
 
 EduVox is an innovative AI-powered voice tutoring system designed to transform traditional learning into an interactive, personalized experience. By leveraging advanced technologies in natural language processing, speech recognition, and retrieval-augmented generation, EduVox creates a dynamic learning environment that responds intelligently to user queries through both voice and text interfaces.
 
+## 📂 Project Structure
+
+Here's an overview of the key files and folders in this repository:
+
+- **`EduVox.py`**  
+  Main Python script containing the core logic for the EduVox AI Voice Tutor.
+
+- **`requirements.txt`**  
+  Contains the list of Python dependencies required to run the project.
+
+- **`Knowlege_Base/`**  
+  Dataset and knowledge resources leveraged by the AI tutor for generating responses and content.
+
+- **`fonts/`**  
+  Directory containing custom font files used within the application or reports.
+
+- **`dejavu-fonts-ttf-2.37.zip`**  
+  Additional font package for proper text rendering.
+
+- **`EduVox.pptx`**  
+  Project presentation outlining features, functionality, and architecture.
+
+- **`TechnicalReportEduVox.docx` / `TechnicalReportEduVox.pdf`**  
+  Comprehensive technical report detailing system design, implementation, and methodologies.
+
+- **`README.md`**  
+  Project overview, setup instructions, and usage guidelines.
+
 ## ✨ Key Features
 
 - **Voice & Text Interaction**: Communicate naturally using voice or text input
